@@ -3,7 +3,6 @@ com/mycompany/fachada/controlador/Launcher.class
 com/mycompany/fachada/modelo/Mysql/MySqlFachada.class
 modelo/Variables/Profesor.class
 com/mycompany/fachada/modelo/SqlServer/SqlServerFachada.class
-modelo/crud.class
 com/mycompany/fachada/modelo/Oracle/OracleFachada.class
 modelo/Variables/Persona.class
 modelo/Variables/Estudiante.class

@@ -1,6 +1,6 @@
 package com.mycompany.fachada.modelo.SqlServer;
 
-import modelo.crud;
+import com.mycompany.fachada.modelo.crud;
 import modelo.Variables.Persona;
 
 

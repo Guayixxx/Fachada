@@ -1,22 +1,22 @@
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerRead.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/controlador/App.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Variables/Persona.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlDelete.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerUpdate.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Variables/Profesor.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlRead.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleCreate.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/crud.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleDelete.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleFachada.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlCreate.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlFachada.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlUpdate.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/controlador/Launcher.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerDelete.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Variables/Decano.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Variables/Estudiante.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerFachada.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleUpdate.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerCreate.java
-/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleRead.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlCreate.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Variables/Profesor.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerCreate.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleUpdate.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlDelete.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerFachada.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Variables/Estudiante.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerDelete.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleFachada.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Variables/Decano.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlFachada.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleCreate.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleDelete.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/controlador/App.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleRead.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/controlador/Launcher.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlUpdate.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlRead.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/crud.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerRead.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerUpdate.java
+/mnt/Linux500GB/Trabajos_Universidad/Patrones_de_diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Variables/Persona.java

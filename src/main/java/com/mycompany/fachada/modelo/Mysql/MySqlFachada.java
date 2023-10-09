@@ -1,6 +1,6 @@
 package com.mycompany.fachada.modelo.Mysql;
 
-import modelo.crud;
+import com.mycompany.fachada.modelo.crud;
 import modelo.Variables.Persona;
 
 public class MySqlFachada implements crud {

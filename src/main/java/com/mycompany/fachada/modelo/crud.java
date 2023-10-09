@@ -1,4 +1,4 @@
-package modelo;
+package com.mycompany.fachada.modelo;
 
 import modelo.Variables.Persona;
 
