@@ -1,5 +1,7 @@
 package com.mycompany.fachada.modelo.Mysql;
 
+import java.util.HashMap;
+import java.util.Map;
 import modelo.Variables.Decano;
 import modelo.Variables.Estudiante;
 import modelo.Variables.Persona;
@@ -7,25 +9,19 @@ import modelo.Variables.Profesor;
 
 public class MySqlCreate {
     
-    public String CreateQuery;
-
-    public String getCreateQuery() {
-        return CreateQuery;
-    }
-
-    public void setCreateQuery(String CreateQuery) {
-        this.CreateQuery = CreateQuery;
-    }
-    
     public String Create(Persona persona) {
-        
-        if (persona instanceof Estudiante) {
-            setCreateQuery("MySql INSERT INTO Estudiante (Nombre, Apellido ,Edad, ID, Carrera) VALUES ('valor1', 'valor2', 'valor3', 'valor4', 'valor5');");
-        } else if (persona instanceof Profesor) {
-            setCreateQuery("MySql INSERT INTO Profesor (Nombre, Apellido ,Edad, ID, Escuela) VALUES ('valor1', 'valor2', 'valor3', 'valor4', 'valor5');");
-        } else if(persona instanceof Decano){
-            setCreateQuery("MySql INSERT INTO Estudiante (Nombre, Apellido ,Edad, ID, Facultad) VALUES ('valor1', 'valor2', 'valor3', 'valor4', 'valor5');");
+        Map<Class<? extends Persona>, String> sqlStatements = new HashMap<>();
+
+        sqlStatements.put(Estudiante.class, "MySql INSERT INTO Estudiante (Nombre, Apellido ,Edad, ID, Carrera) VALUES ('valor1', 'valor2', 'valor3', 'valor4', 'valor5');");
+        sqlStatements.put(Profesor.class, "MySql INSERT INTO Profesor (Nombre, Apellido ,Edad, ID, Escuela) VALUES ('valor1', 'valor2', 'valor3', 'valor4', 'valor5');");
+        sqlStatements.put(Decano.class, "MySql INSERT INTO Estudiante (Nombre, Apellido ,Edad, ID, Facultad) VALUES ('valor1', 'valor2', 'valor3', 'valor4', 'valor5');");
+
+        String sqlStatement = sqlStatements.get(persona.getClass());
+
+        if (sqlStatement != null) {
+            System.out.println(sqlStatement);
         }
+
         return "0";
     }
 }

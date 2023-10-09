@@ -1,15 +1,15 @@
-package modelo.Oracle;
+package com.mycompany.fachada.modelo.Oracle;
 
 import modelo.crud;
 import modelo.Variables.Persona;
 
-public class OracleCrud implements crud {
+public class OracleFachada implements crud {
     private OracleCreate createStrategy;
     private OracleRead readStrategy;
     private OracleUpdate updateStrategy;
     private OracleDelete deleteStrategy;
 
-    public OracleCrud() {
+    public OracleFachada() {
         this.createStrategy = new OracleCreate();
         this.readStrategy = new OracleRead();
         this.updateStrategy = new OracleUpdate();

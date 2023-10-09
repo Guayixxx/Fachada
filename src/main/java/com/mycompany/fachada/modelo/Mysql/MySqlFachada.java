@@ -3,14 +3,14 @@ package com.mycompany.fachada.modelo.Mysql;
 import modelo.crud;
 import modelo.Variables.Persona;
 
-public class MySqlCrud implements crud {
+public class MySqlFachada implements crud {
 
     private MySqlCreate createStrategy;
     private MySqlRead readStrategy;
     private MySqlUpdate updateStrategy;
     private MySqlDelete deleteStrategy;
 
-    public MySqlCrud() {
+    public MySqlFachada() {
         this.createStrategy = new MySqlCreate();
         this.readStrategy = new MySqlRead();
         this.updateStrategy = new MySqlUpdate();

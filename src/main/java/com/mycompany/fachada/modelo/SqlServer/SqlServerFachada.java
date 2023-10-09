@@ -1,17 +1,17 @@
-package modelo.SqlServer;
+package com.mycompany.fachada.modelo.SqlServer;
 
 import modelo.crud;
 import modelo.Variables.Persona;
 
 
-public class SqlServerCrud implements crud {
+public class SqlServerFachada implements crud {
 
     private SqlServerCreate createStrategy;
     private SqlServerRead readStrategy;
     private SqlServerUpdate updateStrategy;
     private SqlServerDelete deleteStrategy;
 
-    public SqlServerCrud() {
+    public SqlServerFachada() {
         this.createStrategy = new SqlServerCreate();
         this.readStrategy = new SqlServerRead();
         this.updateStrategy = new SqlServerUpdate();

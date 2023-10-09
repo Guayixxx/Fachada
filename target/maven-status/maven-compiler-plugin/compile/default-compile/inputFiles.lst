@@ -1,23 +1,22 @@
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\Mysql\MySqlUpdate.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\Variables\Estudiante.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\SqlServer\SqlServerCrud.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\Variables\Decano.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\controlador\App.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\Mysql\MySqlCrud.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\Oracle\OracleRead.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\controlador\Fachada.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\Mysql\MySqlRead.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\SqlServer\SqlServerUpdate.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\Variables\Persona.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\Variables\Profesor.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\Oracle\OracleCrud.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\Oracle\OracleUpdate.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\crud.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\Mysql\MySqlCreate.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\Oracle\OracleDelete.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\Oracle\OracleCreate.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\SqlServer\SqlServerRead.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\SqlServer\SqlServerCreate.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\Mysql\MySqlDelete.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\modelo\SqlServer\SqlServerDelete.java
-C:\Users\juanp\Documents\NetBeansProjects\Fachada\src\main\java\com\mycompany\fachada\vista\VentanaPrincipal.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerRead.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/controlador/App.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Variables/Persona.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlDelete.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerUpdate.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Variables/Profesor.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlRead.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleCreate.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/crud.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleDelete.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleFachada.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlCreate.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlFachada.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Mysql/MySqlUpdate.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/controlador/Launcher.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerDelete.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Variables/Decano.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Variables/Estudiante.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerFachada.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleUpdate.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/SqlServer/SqlServerCreate.java
+/mnt/Linux500GB/Trabajos Universidad/Patrones de diseño/Fachada/src/main/java/com/mycompany/fachada/modelo/Oracle/OracleRead.java
